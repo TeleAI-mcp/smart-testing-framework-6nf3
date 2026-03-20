@@ -1,2 +1,3 @@
-# smart-testing-framework-6nf3
-Automated issue comment bot repository
+# Smart Testing Framework 6Nf3
+
+Automated issue comment bot repository.
